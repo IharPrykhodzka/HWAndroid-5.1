@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HWAndroid 5.1</string>
+    <string name="inputNoteTxt">Примечание...</string>
+    <string name="btnSaveNoteTxt">Сохранить</string>
+    <string name="fileSaved">данные сохранены</string>
+</resources>
